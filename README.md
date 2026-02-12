@@ -21,6 +21,15 @@ Developed as a final year Computer Science project at Veritas University, this a
 |:---:|:---:|:---:|:---:|
 | ![Dashboard](Home_screen.jpeg) | ![Profile](Profile_screen.jpeg) | ![Add](Add_transaction_screen.jpeg) | ![Splash screen](Splash_screen.jpeg) |
 
+## 🎓 Solved Problems
+UniSpend bridges the gap between financial chaos and stability for students:
+
+| The Student Problem 😫 | The UniSpend Solution ✅ |
+| :--- | :--- |
+| *"I don't know where my money vanished to."* | **Transaction History** logs every Naira with timestamps. |
+| *"I spend too much on Shawarma."* | **Visual Analytics** (Pie Charts) expose spending leaks instantly. |
+| *"I can never save enough for a laptop."* | **Goals Feature** visualizes progress, motivating students to save. |
+| *"Data is expensive, I can't be online always."* | **Offline Database** ensures the app works perfectly without data. |
 
 
 ## 🛠️ Technical Stack
