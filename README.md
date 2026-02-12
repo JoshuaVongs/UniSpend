@@ -17,9 +17,9 @@ Developed as a final year Computer Science project at Veritas University, this a
 * **👤 Student Profile:** Personalized welcome screen and user management.
 
 ## 📱 Screenshots
-| Dashboard | Savings Goals | Add Expense | Analytics |
+| Dashboard | Profile | Add Expense | Splash screen |
 |:---:|:---:|:---:|:---:|
-| ![Dashboard](screenshot1.png) | ![Goals](screenshot2.png) | ![Add](screenshot3.png) | ![Chart](screenshot4.png) |
+| ![Dashboard](Home_screen.jpg) | ![Profile](Profile_screen.jpg) | ![Add](Add_transaction_screen.jpg) | ![Splash screen](Splash_screen.jpg) |
 
 
 
