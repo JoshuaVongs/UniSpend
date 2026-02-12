@@ -19,7 +19,7 @@ Developed as a final year Computer Science project at Veritas University, this a
 ## 📱 Screenshots
 | Dashboard | Profile | Add Expense | Splash screen |
 |:---:|:---:|:---:|:---:|
-| ![Dashboard](Home_screen.jpg) | ![Profile](Profile_screen.jpg) | ![Add](Add_transaction_screen.jpg) | ![Splash screen](Splash_screen.jpg) |
+| ![Dashboard](Home_screen.jpeg) | ![Profile](Profile_screen.jpeg) | ![Add](Add_transaction_screen.jpeg) | ![Splash screen](Splash_screen.jpeg) |
 
 
 
