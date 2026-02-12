@@ -1,7 +1,7 @@
 # UniSpend 📱💸
 **The Ultimate Student Finance & Budget Manager**
 
-![Banner Image](Logo.png)
+![Banner Image](Gemini_Generated_Image_8vkngn8vkngn8vkn.png)
 
 ## 📖 Project Overview
 **UniSpend** is a native Android application built to help Nigerian university students navigate the challenges of financial independence.
